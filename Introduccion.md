@@ -1,1 +1,9 @@
+# Introduccion al proyecto
+## En este presente informe se describe los resultados obtenidos durante la investigacion de una Base de datos obtenidas de la pagina de internet Kaggle y, cuyo objetivo planteado fue, analizar las tendencias globales de temperaturas y emiciones de CO2 entre 1950 y 2020 para entender como estas variables se relacionan con el cambio climatico. y teniendo una gran importancia, debido que, la presente investigacion evalurada 2 factores clave del cambio climatico: el aumento de temperaturas y las emisiones de gases de efecto invernadero, porporcionando una vision integral sobre su evolucion historia, para lo que se trabajo con una muestra de 1900 aproximadamente
+## A su vez, para la contruccion de la escala se tomo en cuenta la Metodologia KDD, de acuerdo con nigro, oscar et. l. (2004) Es el descubrimiento de conocimiento de bases de datos, en un campo de la inteligencia artificial de rapido crecimiento, que combina tecnicas del aprendizaje de maquina, reconocimiento de patrones, estadistica, bases de datos y visuzalizacion para automaticamente estraer conocimiento o informacion, de un nivel bajo de datos
 
+# importancia del tema 
+## el analisis de la variacion en las temperaturas promedio tratara y dara informacion deductiva hacerca de los cambios climaticos de las entindades de la base de datos, informacion la cual puede ser utilizada para predecir cambios climaticos importantes que puedan suceder y prepararse con antelancion gracias a esta investigacion
+
+# caracteristicas de la base de datos
+## las caractetisticas principales de la base de datos son, 4 columnas de informacion divididas en, entindad, Var, Año y Value, las cuales almacenan las entidades investigadas por nuestro equipo, ..., el año en el que se investigo la informacion previa y la temperatura total, siendo informacion recuperada de la pagina web kaggle
