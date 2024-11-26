@@ -5,5 +5,5 @@
 # importancia del tema 
 ## el analisis de la variacion en las temperaturas promedio tratara y dara informacion deductiva hacerca de los cambios climaticos de las entindades de la base de datos, informacion la cual puede ser utilizada para predecir cambios climaticos importantes que puedan suceder y prepararse con antelancion gracias a esta investigacion
 
-# caracteristicas de la base de datos
+# Caracteristicas de la base de datos
 ## las caractetisticas principales de la base de datos son, 4 columnas de informacion divididas en, entindad, Var, Año y Value, las cuales almacenan las entidades investigadas por nuestro equipo, ..., el año en el que se investigo la informacion previa y la temperatura total, siendo informacion recuperada de la pagina web kaggle
