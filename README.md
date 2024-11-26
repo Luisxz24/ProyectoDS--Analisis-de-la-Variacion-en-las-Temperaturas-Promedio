@@ -1,4 +1,5 @@
-# Proyecto de analisis de la variacion en las temperaturas promedio
+# Análisis de la Relación entre Emisiones de CO₂ y Variación de Temperaturas Globales
+
 ## Creado por: 
 ## Juarez Cordoba Luis Gerardo
 ## Aguilar Morales Juan Pablo
