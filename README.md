@@ -1,5 +1,5 @@
 # Proyecto de analisis de la variacion en las temperaturas promedio
-## creado por: 
+## Creado por: 
 ## Juarez Cordoba Luis Gerardo
 ## Aguilar Morales Juan Pablo
 ## Juan Carlos Cruz Bravo
