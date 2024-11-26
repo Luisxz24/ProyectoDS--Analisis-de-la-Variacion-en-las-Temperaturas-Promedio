@@ -7,7 +7,7 @@
 ## Mendoza Ceceña Hector Rene
 
 # Objetivo del proyecto
-## Analizar las tendencias globales de temperaturas y emisiones de CO2 entre 1950 y 2024 para entender como estas variaciones se relacionan con el cambio climatico
+## El propósito de este proyecto es comprender cómo las emisiones de CO₂ y las variaciones de temperatura global han evolucionado a lo largo del tiempo, desde 1950 hasta 2020. A través del análisis de estos datos históricos, buscamos explorar si existe un relación en el aumento de las emisiones de CO₂ y el incremento de las temperaturas globales. Además, el proyecto tiene como objetivo realizar proyecciones futuras para evaluar las posibles consecuencias de un aumento continuo en las emisiones de CO₂ y su impacto en el clima mundial.
 
 # Fases del proyecto 
 ## Introducción [haz click para ir] 
