@@ -11,7 +11,7 @@
 El propósito de este proyecto es comprender cómo las emisiones de CO₂ y las variaciones de temperatura global han evolucionado a lo largo del tiempo, desde 1950 hasta 2020. A través del análisis de estos datos históricos, buscamos explorar si existe una relación en el aumento de las emisiones de CO₂ y el incremento de las temperaturas globales. Además, el proyecto tiene como objetivo realizar proyecciones futuras para evaluar las posibles consecuencias de un aumento continuo en las emisiones de CO₂.
 
 # Fases del proyecto 
-1. Introducción. [haz click para ir] 
+1. [Introducción.]
 (https://github.com/Luisxz24/ProyectoDS--Analisis-de-la-Variacion-en-las-Temperaturas-Promedio/blob/main/Introduccion.md) 
 2. Planeamiento del problema. [haz click para ir] 
 (https://github.com/Luisxz24/ProyectoDS--Analisis-de-la-Variacion-en-las-Temperaturas-Promedio/blob/main/Problematica.md)
