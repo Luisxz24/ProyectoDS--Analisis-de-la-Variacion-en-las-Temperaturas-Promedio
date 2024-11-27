@@ -16,7 +16,7 @@ El propósito de este proyecto es comprender cómo las emisiones de CO₂ y las 
 3. [Conjunto de datos.](https://github.com/Luisxz24/ProyectoDS--Analisis-de-la-Variacion-en-las-Temperaturas-Promedio/blob/main/Conjuntodatos.md)
 4. [Modelamiento de datos.](https://github.com/Luisxz24/ProyectoDS--Analisis-de-la-Variacion-en-las-Temperaturas-Promedio/blob/main/Modelado%20de%20datos.%20md)
 5. [Resultados.](https://github.com/Luisxz24/ProyectoDS--Analisis-de-la-Variacion-en-las-Temperaturas-Promedio/blob/main/Resultados.md)
-6. [Conclusiones.] 
+6. [Conclusiones.](https://github.com/Luisxz24/ProyectoDS--Analisis-de-la-Variacion-en-las-Temperaturas-Promedio/blob/main/Conclusiones.md)
 
 
 ## Pasos Realizados (Fases de la metodología KDD)
