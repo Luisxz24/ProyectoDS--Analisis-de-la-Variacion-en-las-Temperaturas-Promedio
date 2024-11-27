@@ -14,8 +14,8 @@ El propósito de este proyecto es comprender cómo las emisiones de CO₂ y las 
 1. [Introducción.](https://github.com/Luisxz24/ProyectoDS--Analisis-de-la-Variacion-en-las-Temperaturas-Promedio/blob/main/Proyecto/Introduccion.md) 
 2. [Planeamiento del problema.](https://github.com/Luisxz24/ProyectoDS--Analisis-de-la-Variacion-en-las-Temperaturas-Promedio/blob/main/Proyecto/Problematica.md)
 3. [Conjunto de datos.](https://github.com/Luisxz24/ProyectoDS--Analisis-de-la-Variacion-en-las-Temperaturas-Promedio/blob/main/Proyecto/Conjuntodatos.md)
-4. [Modelamiento de datos.](https://github.com/Luisxz24/ProyectoDS--Analisis-de-la-Variacion-en-las-Temperaturas-Promedio/blob/main/Modelado%20de%20datos.%20md)
-5. [Resultados.](https://github.com/Luisxz24/ProyectoDS--Analisis-de-la-Variacion-en-las-Temperaturas-Promedio/blob/main/Resultados.md)
+4. [Modelamiento de datos.](https://github.com/Luisxz24/ProyectoDS--Analisis-de-la-Variacion-en-las-Temperaturas-Promedio/blob/main/Proyecto/Modelado%20de%20datos.md)
+5. [Resultados.](https://github.com/Luisxz24/ProyectoDS--Analisis-de-la-Variacion-en-las-Temperaturas-Promedio/blob/main/Proyecto/Resultados.md)
 6. [Conclusiones.](https://github.com/Luisxz24/ProyectoDS--Analisis-de-la-Variacion-en-las-Temperaturas-Promedio/blob/main/Proyecto/Conclusiones.md)
 
 
