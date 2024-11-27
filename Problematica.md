@@ -1,17 +1,11 @@
 # Planteamiento del problema
 
-## Los problemas a los que nuestra investigacion trata de dar solucion fueron 2, que se tomaron en cuenta bajo el obtetivo del proyecto, estas preguntas son:
-* ¿Como han evolucionado las temperaturas globales y las emicones de CO2 a lo largo del tiempo?
-* ¿Existe una relacion directa entre ambos?
+## Pregunta de Investigación
+* ¿Existe relación entre las emisiones de CO₂ y el aumento de las temperaturas globales entre 1950 y 2020?
+* ¿Afecta el crecimiento de la población global a las emisiones de CO₂ y la temperatura promedio global?
 
-## Estas 2 preguntas conforma la investigacion y fueron planteadas bajo el impacto del cambio climatico y entender las tendencias historias de estas variables para el apoyo del dieño de estrategias de mitigacion y politicas publicas efectivas
+# Contexto
+## El cambio climático es uno de los mayores desafíos ambientales y sociales del siglo XXI. En las últimas décadas, se ha observado un incremento en las temperaturas globales, que ha sido parcialmente atribuido al aumento de las emisiones de gases de efecto invernadero, particularmente el dióxido de carbono (CO₂). Sin embargo, la relación exacta entre el crecimiento de las emisiones de CO₂ y el cambio en la temperatura global aún es un tema de debate e investigación.
 
-# hipotesis
-## Las temperaturas globales en las entidades tienen a ser inestables sin algun patron, teniendo una vista similar con las tencencias globales y de CO2 y temperatura, y de relacion entre poblacion y temperatura global
-
-# Hipotesis especificas
-## las temperaturas globales tienden un comportamiento inestable al ser muy bajas o muy altas 
-## la correlacion entre el CO2 y las temperaturas globales son crecientes en cuanto a los datos, guardando relacion cercana
-## las tendencias globales de CO2 y temperatura tiene un resultado similar, al ser creciente
-## la pobalcion global y el CO2 tiene mar cercania entre si, manteniendo nieveles equilibrados
-## las temperatura global y la poblacion son mucho mas porpensos a ser mucho desequilibrado en sus datos al estar demasiado dispersos
+## A pesar de la preocupación global por el cambio climático, algunos países han logrado reducir sus emisiones, mientras que otros continúan experimentando un aumento en sus niveles de CO₂. Este estudio busca analizar cómo las emisiones de CO₂ han influido en el aumento de las temperaturas globales entre 1950 y 2020, utilizando datos históricos de más de 185 países.
+## Es importante entender cómo las emisiones de CO₂ se correlacionan con el aumento de la temperatura global para formular políticas efectivas que mitiguen los efectos del cambio climático, y para prever las consecuencias futuras si las tendencias actuales continúan.
