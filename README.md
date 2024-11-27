@@ -1,4 +1,4 @@
-# Proyecto: Análisis de la variación de Temperaturas Globales y emisiones de CO₂
+# Proyecto: Análisis de la variación de temperaturas globales y emisiones de CO₂.
 
 ## Creado por: 
 ## Juárez Córdoba Luis Gerardo
