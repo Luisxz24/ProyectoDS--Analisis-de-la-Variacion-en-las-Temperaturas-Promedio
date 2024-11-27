@@ -10,14 +10,14 @@
 * Población (population): La población se incluye como variable predictora debido a que puede tener un efecto indirecto en las emisiones per cápita y, por ende, en la temperatura global.
 
 # Proceso utilizado para seleccionar las variables:
-## Correlación: Se realizó un análisis de correlación para examinar cómo se relacionaban las variables entre sí. Este análisis mostró que CO₂ y la temperatura tienen una relación positiva, lo que hace que su inclusión en el modelo de regresión sea justificable.
+### Correlación: Se realizó un análisis de correlación para examinar cómo se relacionaban las variables entre sí. Este análisis mostró que CO₂ y la temperatura tienen una relación positiva, lo que hace que su inclusión en el modelo de regresión sea justificable.
 
-## Relevancia teórica: Se eligieron las variables según su importancia teórica en el contexto del cambio climático. En particular, CO₂ y la población fueron seleccionadas por ser factores clave que influyen en el calentamiento global.
+### Relevancia teórica: Se eligieron las variables según su importancia teórica en el contexto del cambio climático. En particular, CO₂ y la población fueron seleccionadas por ser factores clave que influyen en el calentamiento global.
 
 # Descripción del Modelo:
 ## Tipo de modelo utilizado:
 
-## Regresión lineal: Se utilizó un modelo de regresión lineal para estudiar la relación entre las variables independientes (emisiones de CO₂ y población) y la variable dependiente (temperatura global). Sin embargo, en otros análisis se utilizaron herramientas como correlación para estudiar la relación entre las variables, y análisis de tendencias para observar la evolución a lo largo del tiempo.
+### Regresión lineal: Se utilizó un modelo de regresión lineal para estudiar la relación entre las variables independientes (emisiones de CO₂ y población) y la variable dependiente (temperatura global). Sin embargo, en otros análisis se utilizaron herramientas como correlación para estudiar la relación entre las variables, y análisis de tendencias para observar la evolución a lo largo del tiempo.
 
 ### Justificación de la elección del modelo:
 * La regresión lineal fue seleccionada debido a que permite modelar de manera sencilla y efectiva la relación entre variables numéricas. En este caso, la relación entre CO₂ y temperatura es plausible que sea lineal, ya que el aumento de las emisiones de CO₂ está asociado históricamente con un aumento en la temperatura global. Además, este modelo ofrece una interpretación directa de los coeficientes, lo que facilita la comprensión de cómo las emisiones y la población impactan en la temperatura.
