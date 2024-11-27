@@ -19,10 +19,11 @@
 
 ## Regresión lineal: Se utilizó un modelo de regresión lineal para estudiar la relación entre las variables independientes (emisiones de CO₂ y población) y la variable dependiente (temperatura global). Sin embargo, en otros análisis se utilizaron herramientas como correlación para estudiar la relación entre las variables, y análisis de tendencias para observar la evolución a lo largo del tiempo.
 
-* Justificación de la elección del modelo:
+### Justificación de la elección del modelo:
 * La regresión lineal fue seleccionada debido a que permite modelar de manera sencilla y efectiva la relación entre variables numéricas. En este caso, la relación entre CO₂ y temperatura es plausible que sea lineal, ya que el aumento de las emisiones de CO₂ está asociado históricamente con un aumento en la temperatura global. Además, este modelo ofrece una interpretación directa de los coeficientes, lo que facilita la comprensión de cómo las emisiones y la población impactan en la temperatura.
 
-# Proceso de Modelamiento: El proceso de modelamiento consistió en los siguientes pasos:
+# Proceso de Modelamiento: 
+## El proceso de modelamiento consistió en los siguientes pasos:
 
 * Filtrado de los datos: Se filtraron los datos para obtener solo las variables de interés, CO₂ y temperatura.
 * Cálculo de promedios anuales globales: Se agruparon los datos por año y variable, y se alcularon los promedios anuales de cada una de las variables seleccionadas.
@@ -30,7 +31,7 @@
 * Entrenamiento del modelo de regresión lineal: Se entrenó el modelo utilizando las emisiones de CO₂ como variable independiente (X) y la temperatura como variable dependiente (y).
 * Proyecciones futuras: Se realizaron predicciones de la temperatura futura basadas en distintos niveles de CO₂, para lo que se utilizaron valores proyectados de CO₂ como entradas al modelo.
 
-# Implementación del Modelo: El código para implementar el modelo de regresión lineal se encuentra en el siguiente apartadoo [codigo_modelo](https://github.com/Luisxz24/ProyectoDS--Analisis-de-la-Variacion-en-las-Temperaturas Promedio/blob/main/Code/analisis_y_graficos.py)
+# Implementación del Modelo: El código para implementar el modelo de regresión lineal se encuentra en el siguiente apartadoo [codigo_modelo](https://github.com/Luisxz24/ProyectoDS--Analisis-de-la-Variacion-en-las-Temperaturas-Promedio/blob/main/Code/analisis_y_graficos.py)
 
 # Evaluación del Modelo:
 
