@@ -4,7 +4,7 @@
 * ¿Como han evolucionado las temperaturas globales y las emicones de CO2 a lo largo del tiempo?
 * ¿Existe una relacion directa entre ambos?
 
-## Estas 2 preguntas conforma la investigacion y fueron planteadas bajo el impacto del cambio climatico y entender las tendencias historias de estas vairbales para el apoyo del dieño de estrategias de mitigacion y politicas publicas efectivas
+## Estas 2 preguntas conforma la investigacion y fueron planteadas bajo el impacto del cambio climatico y entender las tendencias historias de estas variables para el apoyo del dieño de estrategias de mitigacion y politicas publicas efectivas
 
 # hipotesis
 ## Las temperaturas globales en las entidades tienen a ser inestables sin algun patron, teniendo una vista similar con las tencencias globales y de CO2 y temperatura, y de relacion entre poblacion y temperatura global
