@@ -25,12 +25,13 @@ El propósito de este proyecto es comprender cómo las emisiones de CO₂ y las 
 
 
 ## Pasos Realizados (Fases de la metodología KDD)
-1. **Selección del Conjunto de Datos**: Se recopilaron datos históricos de emisiones de CO₂ (1950-2020) y variaciones de temperatura global.
+1. **Selección del Conjunto de Datos**: Se recopilaron datos históricos de emisiones de CO₂ y variaciones de temperatura global (1950-2020).
 2. **Preprocesamiento**:
    - Limpieza de datos para eliminar valores atípicos.
    - Relleno de valores faltantes utilizando interpolación.
 3. **Transformación**:
    - Selección de Conjunto de Datos (registros de 1950 a 2020).
+   - Pivoteo de los datasets
 4. **Minería de Datos**:
    - Análisis de series temporales para identificar tendencias.
    - Análisis de correlación entre variables.
