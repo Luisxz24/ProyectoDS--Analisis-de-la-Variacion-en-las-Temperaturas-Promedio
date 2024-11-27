@@ -1,5 +1,5 @@
 # Resultados finales de el proyecto
-# los patrones y resultados graficados y terminados se ha identifaco lo siguiente:
+## los patrones y resultados identificados en las graficas ya terminadas y analizadas, se ha descubierto lo siguiente:
 
 ![tendenciapromediotemp 1](https://github.com/user-attachments/assets/98373c2d-45c6-4112-b3e2-61f51fa2c951)
 ## en cuanto a los resultados dados por la grafica: Tendencia global de temperatura, se puede denotar un incremento en correlacion de la temperatura y años, con algunas picadas o subidas de temperatura, pero siendo una recta creciente, por lo cual, las temperaturas con el pasar de los años han ido subiendo y subiendo, con porbabilidad de mas temperaturas en el futuro
