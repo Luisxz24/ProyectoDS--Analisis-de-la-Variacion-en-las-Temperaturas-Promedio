@@ -1,5 +1,6 @@
-# Proyecto: Análisis de la variación de Temperaturas Globales y emisiones de CO₂## Creado por: 
+# Proyecto: Análisis de la variación de Temperaturas Globales y emisiones de CO₂
 
+## Creado por: 
 ## Juárez Córdoba Luis Gerardo
 ## Aguilar Morales Juan Pablo
 ## Juan Carlos Cruz Bravo
