@@ -1,7 +1,7 @@
 # Conclusiones
 
 # Resumen del análisis
-## El análisis mostró una correlación positiva significativa entre las emisiones de CO₂ y el aumento de las temperaturas globales entre 1950 y 2020. A lo largo de este período, tanto las emisiones de CO₂ como las temperaturas globales mostraron una tendencia creciente, sugiriendo que el aumento de las emisiones de CO₂ ha tenido un impacto directo en el calentamiento global. La relación observada refuerza la comprensión actual de que el CO₂ es uno de los principales contribuyentes al cambio climático.
+* El análisis mostró una correlación positiva significativa entre las emisiones de CO₂ y el aumento de las temperaturas globales entre 1950 y 2020. A lo largo de este período, tanto las emisiones de CO₂ como las temperaturas globales mostraron una tendencia creciente, sugiriendo que el aumento de las emisiones de CO₂ ha tenido un impacto directo en el calentamiento global. La relación observada refuerza la comprensión actual de que el CO₂ es uno de los principales contribuyentes al cambio climático.
 
 # Aplicaciones prácticas
 * Política Ambiental: Los hallazgos pueden ser utilizados por gobiernos y organizaciones internacionales para formular políticas y medidas que busquen reducir las emisiones de CO₂, apoyando los esfuerzos de mitigación del cambio climático.
