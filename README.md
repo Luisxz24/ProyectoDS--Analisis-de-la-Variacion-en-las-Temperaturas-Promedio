@@ -1,11 +1,13 @@
 # Proyecto: Análisis de la variación de temperaturas globales y emisiones de CO₂.
 
 ## Creado por: 
-## Juárez Córdoba Luis Gerardo
-## Aguilar Morales Juan Pablo
-## Juan Carlos Cruz Bravo
-## Hernández Martínez Valentín De Jesús
-## Mendoza Ceceña Héctor René
+## 
+## Juan Pablo Aguilar Morales  
+## Juan Carlos Cruz Bravo  
+## Valentín De Jesús Hernández Martínez  
+## Luis Gerardo Juárez Córdoba  
+## Héctor Rene Mendoza Ceceña  
+## Enrique Emiliano Molina Chagoya 
 
 ## Objetivo
 El propósito de este proyecto es comprender cómo las emisiones de CO₂ y las variaciones de temperatura global han evolucionado a lo largo del tiempo, desde 1950 hasta 2020. A través del análisis de estos datos históricos, buscamos explorar si existe una relación en el aumento de las emisiones de CO₂ y el incremento de las temperaturas globales. Además, el proyecto tiene como objetivo realizar proyecciones futuras para evaluar las posibles consecuencias de un aumento continuo en las emisiones de CO₂.
