@@ -19,12 +19,12 @@ A través del análisis de estos datos históricos, buscamos:
 ---
 
 ## Fases del Proyecto
-1. [Introducción](Proyecto/Introduccion.md)  
-2. [Planeamiento del Problema](Proyecto/Problematica.md)  
-3. [Conjunto de Datos](Proyecto/Conjuntodatos.md)  
-4. [Modelamiento de Datos](Proyecto/Modelado%20de%20datos.md)  
-5. [Resultados](Proyecto/Resultados.md)  
-6. [Conclusiones](Proyecto/Conclusiones.md)  
+1. [Introducción](https://<tu_usuario>.github.io/<nombre_repositorio>/Proyecto/Introduccion)  
+2. [Planeamiento del Problema](https://<tu_usuario>.github.io/<nombre_repositorio>/Proyecto/Problematica)  
+3. [Conjunto de Datos](https://<tu_usuario>.github.io/<nombre_repositorio>/Proyecto/Conjuntodatos)  
+4. [Modelamiento de Datos](https://<tu_usuario>.github.io/<nombre_repositorio>/Proyecto/Modelado%20de%20datos)  
+5. [Resultados](https://<tu_usuario>.github.io/<nombre_repositorio>/Proyecto/Resultados)  
+6. [Conclusiones](https://<tu_usuario>.github.io/<nombre_repositorio>/Proyecto/Conclusiones)  
 
 ---
 
@@ -57,5 +57,3 @@ A través del análisis de estos datos históricos, buscamos:
 
 ## Accede al Proyecto
 Visita el repositorio completo en [GitHub](https://github.com/Luisxz24/ProyectoDS--Analisis-de-la-Variacion-en-las-Temperaturas-Promedio).
-
-
