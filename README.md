@@ -20,7 +20,7 @@ A través del análisis de estos datos históricos, buscamos:
 1. [Introducción](./Proyecto/Introduccion.md)  
 2. [Planeamiento del Problema](./Proyecto/Problematica.md)  
 3. [Conjunto de Datos](./Proyecto/Conjuntodatos.md)  
-4. [Modelamiento de Datos](./Proyecto/Modelado%20de%20datos.md)  
+4. [Modelamiento de Datos](./Proyecto/modeladodedatos.md)  
 5. [Resultados](./Proyecto/Resultados.md)  
 6. [Conclusiones](./Proyecto/Conclusiones.md)  
 
