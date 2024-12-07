@@ -99,11 +99,11 @@ dataset_co2_filtrado.to_excel(r"C:/Users/lugej/OneDrive/Documentos/co2_filtrado.
 
 # Concatenación de los Conjuntos de Datos
 
-## Después de realizar los filtrados, los datasets de CO2 y temperaturas fueron concatenados. Para esto, se utilizaron macros en Excel para alinear y unir ambos conjuntos de datos en un único archivo, asegurándose de que los datos estuvieran correctamente organizados y listos para el análisis.
+Después de realizar los filtrados, los datasets de CO2 y temperaturas fueron concatenados. Para esto, se utilizaron macros en Excel para alinear y unir ambos conjuntos de datos en un único archivo, asegurándose de que los datos estuvieran correctamente organizados y listos para el análisis.
 
 # Transformación Final (Pivoteo a Largo)
 
-## Finalmente, se realizó un pivoteo de los datos concatenados a formato largo, lo que permitió una mejor manipulación y análisis posterior:
+Finalmente, se realizó un pivoteo de los datos concatenados a formato largo, lo que permitió una mejor manipulación y análisis posterior:
 
 ```python
 df = pd.read_excel(file_path)
