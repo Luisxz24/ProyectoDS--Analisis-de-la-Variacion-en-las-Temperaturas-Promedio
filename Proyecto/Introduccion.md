@@ -38,6 +38,6 @@ La base de datos analizada incluye información organizada en cuatro columnas pr
 - **Año**: Periodo de 70 años (1950-2020)
 - **Valor**: Datos de las variables correspondientes por año
 
-Cada entidad está representada en la base de datos 10 veces por año. Los datos fueron obtenidos de **Kaggle**, lo que asegura la confiabilidad de los resultados obtenidos para el análisis.
+Cada entidad está representada en la base de datos 10 veces por año. Los datos fueron obtenidos de **Kaggle** y **Our World in Data**, lo que asegura la confiabilidad de los resultados obtenidos para el análisis.
 
 ---
