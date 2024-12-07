@@ -1,5 +1,3 @@
-# Proyecto: Análisis de la Variación de Temperaturas Globales y Emisiones de CO₂
-
 ## Creado por:
 - **Juan Pablo Aguilar Morales**  
 - **Juan Carlos Cruz Bravo**  
@@ -55,5 +53,3 @@ A través del análisis de estos datos históricos, buscamos:
 
 ---
 
-## Accede al Proyecto
-Visita el repositorio completo en [GitHub](https://github.com/Luisxz24/ProyectoDS--Analisis-de-la-Variacion-en-las-Temperaturas-Promedio).
